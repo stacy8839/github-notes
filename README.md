@@ -1,5 +1,7 @@
 # github-notes
-This is a repo for the descriptions of 
+This is a repo for the descriptions of:
+
+
 **Git**:
 Git is a tool that helps track changes in code or flies over time. It lets you save different versions of your work, go back to older versions of your work, and see what changes were made and when. 
 
