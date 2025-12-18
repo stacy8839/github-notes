@@ -11,3 +11,6 @@ A GitHub Repo is like a folder stored online on GitHub. It holds your project fi
 **Commit**:
 A commit is a saved change in a project. When you make a commit, you are taking a snapshot of your work at that moment and adding a message that explains what you changed. Commits help track progress and show how a project evolves
 
+**GitHub**
+GitHub is a website that stores repositories online. It lets people upload their projects, keep track of changes, and share their work with others. Github makes it easy to see commits, collaborate with classmates, and access your code from anywhere. 
+
